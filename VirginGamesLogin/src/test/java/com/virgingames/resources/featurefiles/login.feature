@@ -14,10 +14,10 @@ Feature: VirginGames Login Validation
     Then I should get the error message as "<errormessage>"
 
     Examples:
-      | username          | password | errormessage                                                              |
-      | Test              | Password | Please try again, your username/email or password has not been recognised |
-      | abc               | test     | Your username/email must be 4 to 60 characters long                       |
-      | u                 | password | Your username/email must be 4 to 60 characters long                       |
-      | user              |          | Both your username and password are required                              |
-      |                   | password | Both your username and password are required                              |
-      | Test123@gmail.com | password | Please try again, your username/email or password has not been recognised |
+      | username | password | errormessage                                                              |
+      | Test     | Password | Please try again, your username/email or password has not been recognised |
+      | abc      | test     | Your username/email must be 4 to 60 characters lo                         |
+#      | u                 | password | Your username/email must be 4 to 60 characters long                       |
+#      | user              |          | Both your username and password are required                              |
+#      |                   | password | Both your username and password are required                              |
+#      | Test123@gmail.com | password | Please try again, your username/email or password has not been recognised |

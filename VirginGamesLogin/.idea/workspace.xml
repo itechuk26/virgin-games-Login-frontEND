@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -28,17 +29,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sample-cucumber-project" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Guru99_Test_Maven" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Paavan\IdeaProjects\VirginGamesLogin\src\main\java\com\virgingames\screenshots" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.virgingames" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Paavan\IdeaProjects\VirginGamesLogin\drivers" />
       <recent name="C:\Users\Paavan\IdeaProjects\VirginGamesLogin" />
     </key>
   </component>
@@ -107,5 +113,59 @@
       <updated>1574939868280</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" width="1089" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576774293467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" width="1089" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576774293467" />
+    <state x="531" y="254" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1576773685859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="254" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1576773685858" />
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576602888683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1576602888683" />
+    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1580551361265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580551361265" />
+    <state width="1493" height="278" key="GridCell.Tab.0.bottom" timestamp="1577211017399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="278" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577211017399" />
+    <state width="1493" height="278" key="GridCell.Tab.0.center" timestamp="1577211017395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="278" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577211017395" />
+    <state width="1493" height="278" key="GridCell.Tab.0.left" timestamp="1577211017395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="278" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577211017395" />
+    <state width="1493" height="278" key="GridCell.Tab.0.right" timestamp="1577211017395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="278" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577211017395" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1576775110530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576775110530" />
+    <state x="485" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1580548666290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580548666290" />
+    <state x="236" y="116" key="new project wizard" timestamp="1577213232519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="236" y="116" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1577213232519" />
+    <state x="640" y="314" key="save.project.as.template.dialog" timestamp="1576775527993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="314" key="save.project.as.template.dialog/0.0.1536.824@0.0.1536.824" timestamp="1576775527993" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1576600383105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576600383105" />
   </component>
 </project>
